@@ -2,7 +2,7 @@
 
 pkgname=alsa-s6rcserv
 pkgver=0.1
-pkgrel=1
+pkgrel=2
 pkgdesc="alsa service for s6"
 arch=(x86_64)
 license=('beerware')
@@ -40,7 +40,7 @@ md5sums=('d1856123a07ab07963fe74a55bad5a48'
          'd1856123a07ab07963fe74a55bad5a48'
          '98687deb3ebbd87a531eafe5ac8cd4ea'
          '85bceea1fb94d4166f24496dc40a35e6'
-         '63fdc4948b9ca1d16a91be9189113d33'
+         'f0e6a4738341b7a28fd40c8076a3298f'
          '25ae451bb7ba9995e8a0ed621e3065ba'
          '71abe97e2554d37f1d12c5bf4945297f'
          '191a37ae657aa17e37e75d0242865dba')

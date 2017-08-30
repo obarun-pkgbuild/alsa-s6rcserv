@@ -1,4 +1,4 @@
 #!/usr/local/bin/execlineb -P
 fdmove -c 2 1
-s6-svlisten1 /run/user/service/alsa-longrun
+s6-svlisten1 /run/user/0/alsa-longrun
 /usr/bin/alsactl restore
